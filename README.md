@@ -1,6 +1,6 @@
 # Car Security (Módulo de Detecção)
 
-Esse módulo é responsável por fornecer uma API-Rest para a aplicação CarSecurity, de modo a oferecer um CRUD para todos os objetos do sistema.
+Esse módulo é responsável por fornecer uma API-Rest para a aplicação [CarSecurity](https://github.com/marcusvlc/car-security-app), de modo a oferecer um CRUD para todos os objetos do sistema.
 Também é responsável por realizar as detecções em tempo real.
 
 ## Antes de executar (IMPORTANTE)
